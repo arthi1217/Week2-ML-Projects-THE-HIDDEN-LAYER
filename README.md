@@ -28,13 +28,14 @@ Student Pass/Fail Classification
 •	Mayank Mishra
 # Screenshots
 Linear Regression
+
 <img width="737" height="521" alt="image" src="https://github.com/user-attachments/assets/0ea72052-f710-481d-a50e-e16febabdbc9" />
 <img width="700" height="532" alt="image" src="https://github.com/user-attachments/assets/9f3f21e8-5d4d-4cd1-a746-5fc81b5ccff2" />
 
 Classification Model
 
-<img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/08a44d00-3a77-4d0b-8889-3557d2114c95" />
-<img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/5f2b0c10-9b82-4aa9-a140-b29a7943fa7a" />
+<img width="672" height="504" alt="image" src="https://github.com/user-attachments/assets/8017c8f3-b241-4d17-9731-6bc460ea1527" />
+<img width="620" height="550" alt="image" src="https://github.com/user-attachments/assets/35554165-0bfb-4e1f-95c1-7ae1cd30f2cc" />
 
 
 # How to Run the Project
