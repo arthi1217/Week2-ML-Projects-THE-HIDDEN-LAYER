@@ -1,5 +1,5 @@
 # Week2-ML-Projects-THE-HIDDEN-LAYER
-# Week 2 Machine Learning Assignment
+
 # Project Title
 Linear Regression from Scratch and Student Pass/Fail Classification
 # Objective
@@ -27,15 +27,14 @@ Student Pass/Fail Classification
 •	Bollapelli Ashwitha
 •	Mayank Mishra
 # Screenshots
-Linear Regression
- 
-Classification Model
- 
+
 # How to Run the Project
+
 Linear Regression
 1.	Open Linear_Regression.ipynb
 2.	Run all cells sequentially
 3.	View output and graph
+
 Classification Model
 1.	Open Classification_Model.ipynb
 2.	Run all cells sequentially
