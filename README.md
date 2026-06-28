@@ -7,13 +7,25 @@ To understand Machine Learning model implementation and classification technique
 
 # Dataset
 
+
 # Linear Regression:
-Synthetic dataset generated using NumPy.
+A synthetic dataset was generated using NumPy. Random values were created for training and testing the Linear Regression model.
+
+# Features:
+• Input Variable (X)
+• Target Variable (Y)
 
 # Student Pass/Fail Classification:
+A custom dataset was created to predict whether a student will pass or fail based on academic factors.
+
+# Features:
 • Study Hours
 • Attendance
 • Pass (Target Variable)
+
+# Target Labels:
+• 0 = Fail
+• 1 = Pass
 
 # Technologies Used
 •	Python
